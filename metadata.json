@@ -1,0 +1,6 @@
+{
+  "name": "Ollama Task Agent",
+  "description": "An agentic automation tool utilizing local Ollama models over USB (reverse ADB) or fallback Gemini models to automate UI tasks on Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
